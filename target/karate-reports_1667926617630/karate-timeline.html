@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Karate Timeline</title>
+    <style>
+      body, html { font-family: arial, sans-serif; font-size: 11pt; }
+      #visualization { box-sizing: border-box; width: 100%; height: 300px; }
+      .vis-item.failed { background-color: #F2928C; }
+      .page-heading { padding: 0.5em; margin-bottom: 0.5em; background-color: lightcyan; border: 1px solid gray; }
+    </style>
+    <script src="res/vis.min.js"></script>
+    <link href="res/vis.min.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="page-heading">
+      <a href="karate-summary.html">Summary</a>
+    </div>     
+    <div id="visualization"></div>
+    <script>
+var groups = [{"content":"main","id":1}];
+var items = [{"id":1,"group":1,"content":"src\/test\/java\/GRAPHQL\/TestGraphql[1.1:25]","start":1667919205829,"end":1667919208888,"title":"src\/test\/java\/GRAPHQL\/TestGraphql[1.1:25] 09:53:25.829-09:53:28.888 caso de prueba casoNormal"},{"id":2,"group":1,"content":"src\/test\/java\/GRAPHQL\/TestGraphql[1.2:26]","start":1667919208899,"end":1667919209596,"title":"src\/test\/java\/GRAPHQL\/TestGraphql[1.2:26] 09:53:28.899-09:53:29.596 caso de prueba genero id 13"},{"id":3,"group":1,"content":"src\/test\/java\/GRAPHQL\/TestGraphql[1.3:27]","start":1667919209611,"end":1667919210278,"title":"src\/test\/java\/GRAPHQL\/TestGraphql[1.3:27] 09:53:29.611-09:53:30.278 caso de prueba genero id 3"},{"id":4,"group":1,"content":"src\/test\/java\/GRAPHQL\/TestGraphql[1.4:28]","start":1667919210287,"end":1667919211594,"title":"src\/test\/java\/GRAPHQL\/TestGraphql[1.4:28] 09:53:30.287-09:53:31.594 caso de prueba genero id 40"},{"id":5,"group":1,"content":"src\/test\/java\/GRAPHQL\/TestGraphql[1.5:29]","start":1667919211615,"end":1667919212170,"title":"src\/test\/java\/GRAPHQL\/TestGraphql[1.5:29] 09:53:31.615-09:53:32.170 caso de prueba genero id 10"}];
+</script>
+    <script>
+      var container = document.getElementById('visualization');
+      var timeline = new vis.Timeline(container);
+      timeline.setOptions({groupOrder: 'content'});
+      timeline.setGroups(new vis.DataSet(groups));
+      timeline.setItems(new vis.DataSet(items));
+    </script>
+  </body>
+</html>

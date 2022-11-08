@@ -1,0 +1,2758 @@
+15:42:17.810 [main] DEBUG com.intuit.karate - request:
+1 > POST https://reqres.in/api/users
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 23
+1 > Host: reqres.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+{"name":"","job":"QAs"}
+
+15:42:19.524 [main] DEBUG com.intuit.karate - response time in milliseconds: 1702
+1 < 201
+1 < Date: Mon, 07 Nov 2022 20:42:20 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 72
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"48-LI8azX6qS8ZpZPyOunD58xZkufY"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=yudwD9a4ua9W2n%2F3PRQl%2BkHvUHXPpePgMQy2YvDwkNdaKGu4MzeOGvkNPOMvPBoBCInzWL1QA6XrNhQuTOAGVpR1Hwn%2B2UExgyNH%2FUNOhTW%2BWko%2FTGpnLg7D2g%3D%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7668e515ff6c67b7-MIA
+{"name":"","job":"QAs","id":"56","createdAt":"2022-11-07T20:42:20.671Z"}
+
+15:42:19.552 [main] DEBUG com.intuit.karate - request:
+1 > POST https://reqres.in/api/users
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 25
+1 > Host: reqres.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+{"name":null,"job":"QAs"}
+
+15:42:20.592 [main] DEBUG com.intuit.karate - response time in milliseconds: 1040
+1 < 201
+1 < Date: Mon, 07 Nov 2022 20:42:21 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 75
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"4b-pJgoO3o9in1yq0s9BGxWbKjD90Y"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=5DFBm%2BaaB8zR95GKFHpPHbbPsQkTMwie9lz5XP9GL6qGtbeOzH0taK1gcDMpSMS%2F4jyvyPNuXwhfzh40TBlu9JlWxmdGiW77nSU55VSg5B3iwLPoE2DK4oIG%2Bg%3D%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7668e51becae9ac0-MIA
+{"name":null,"job":"QAs","id":"553","createdAt":"2022-11-07T20:42:21.623Z"}
+
+15:42:20.610 [main] DEBUG com.intuit.karate - request:
+1 > POST https://reqres.in/api/users
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 26
+1 > Host: reqres.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+{"name":"Jei","job":"QAs"}
+
+15:42:21.818 [main] DEBUG com.intuit.karate - response time in milliseconds: 1208
+1 < 201
+1 < Date: Mon, 07 Nov 2022 20:42:22 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 76
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"4c-sgqFK0e16tUGWuDHN/TZ9OacnYY"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Dyp0%2Bb5uCi8AyG1eBOR2jjOzFoqrc3h8qE2a2KaltKR2HxmKL%2BPfty%2BEUTia17wowEboF6GzHNhz6vG1UweChPkCW%2Bz1kddyIKmXeYJuqPYFkIT5EBvfvAX0yQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7668e5234f886db9-MIA
+{"name":"Jei","job":"QAs","id":"897","createdAt":"2022-11-07T20:42:22.804Z"}
+
+15:42:21.827 [main] DEBUG com.intuit.karate - request:
+1 > POST https://reqres.in/api/users
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 19
+1 > Host: reqres.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+{"":"","job":"QAs"}
+
+15:42:22.639 [main] DEBUG com.intuit.karate - response time in milliseconds: 811
+1 < 201
+1 < Date: Mon, 07 Nov 2022 20:42:23 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 69
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"45-9nXusJi3FwLwkI8C93p+D8pGsY4"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ILQI7UNY%2FiEBuYbWxSS7IgTskucLlNsAejtOc6yIBCek2iN6Pat0TgVQtZIKLmyTF9LkUd%2FUmI3n9a6wqQCywEBDoMf%2BCtdqCec6ctYvfaHFuy5EXQdByjJSAg%3D%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7668e5295eae6dda-MIA
+{"":"","job":"QAs","id":"376","createdAt":"2022-11-07T20:42:23.765Z"}
+
+15:42:22.653 [main] DEBUG com.intuit.karate - request:
+1 > POST https://reqres.in/api/users
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 25
+1 > Host: reqres.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+{"name":"Jason","job":""}
+
+15:42:23.934 [main] DEBUG com.intuit.karate - response time in milliseconds: 1280
+1 < 201
+1 < Date: Mon, 07 Nov 2022 20:42:25 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 75
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"4b-jT6AS0h+sQiehz6JSE7zX6Q91FQ"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=SYsuiGtnlQyrX4NVDXFs%2BUWxyKGFsSKar%2F%2Bst8ABosAUnvTMaNkABbyPSJw9pCzw1sK2pe9xnQklWzBKMff8Z9QBKQTGQcHKI%2FQcMRZeSi6lBTCceayFBx9kkQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7668e531fcba09ee-MIA
+{"name":"Jason","job":"","id":"173","createdAt":"2022-11-07T20:42:25.148Z"}
+
+15:42:23.965 [main] DEBUG com.intuit.karate - request:
+1 > POST https://reqres.in/api/users
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 27
+1 > Host: reqres.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+{"name":"Jason","job":null}
+
+15:42:25.204 [main] DEBUG com.intuit.karate - response time in milliseconds: 1237
+1 < 201
+1 < Date: Mon, 07 Nov 2022 20:42:26 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 77
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"4d-Fquv0Lk5Vc4xiq16ywCRafJaqGY"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=4WVt4CJOJzSx5iqU5zBXlxaf1yZAdgdYFJ11l9O69a7%2BqTuTV0t4NAQ0FE%2B9ZI9VQg%2B2E6%2B8wfzIBSjJB1TU35UlXcXRf%2FXLL8FdBZu7Cey7%2BfzOpxkpJZNz%2FA%3D%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7668e5398e4a0264-MIA
+{"name":"Jason","job":null,"id":"814","createdAt":"2022-11-07T20:42:26.364Z"}
+
+15:42:25.239 [main] DEBUG com.intuit.karate - request:
+1 > POST https://reqres.in/api/users
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 37
+1 > Host: reqres.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+{"name":"Jason","job":"QAAutomation"}
+
+15:42:26.103 [main] DEBUG com.intuit.karate - response time in milliseconds: 864
+1 < 201
+1 < Date: Mon, 07 Nov 2022 20:42:27 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 86
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"56-nB63JhKdkqU71LJxNc7PJ1zijIA"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=DA6qPXe8iHv%2F4Z7jI9%2BEb4UotZ7A28PhDV5wkLXo2C7KdVXZlwwCHGc60sma5ETx%2FlxhFIlMxZ7%2BIU3M4eJW0XAI86MFkH3slpac0ozVVrIa87gsVsun8qZDLA%3D%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7668e53ef93967b4-MIA
+{"name":"Jason","job":"QAAutomation","id":"69","createdAt":"2022-11-07T20:42:27.228Z"}
+
+15:42:26.129 [main] DEBUG com.intuit.karate - request:
+1 > POST https://reqres.in/api/users
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 22
+1 > Host: reqres.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+{"name":"Jason","":""}
+
+15:42:27.142 [main] DEBUG com.intuit.karate - response time in milliseconds: 1013
+1 < 201
+1 < Date: Mon, 07 Nov 2022 20:42:28 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 72
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"48-97m8vrEi7avWbz3xC/EMOavYZwI"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=1QhOzuF0C5KtDZdUnF2V55fTtcRGIOGRPajtJJW1yhczV%2Bgep1G63UKG8UOGnDpdIEcUFad0ISoiM%2F7g3gVwUwu913UjqfDKu1xmT4Y7Vck39A%2BH6mfiJArUQw%3D%3D"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7668e544a8e9370c-MIA
+{"name":"Jason","":"","id":"583","createdAt":"2022-11-07T20:42:28.132Z"}
+
+16:07:13.347 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667855233344
+16:07:13.481 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 4 - ^caso de prueba tipo Post$
+16:07:15.287 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:7
+And request
+"""
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>500</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>'
+"""
+org.xml.sax.SAXParseException; lineNumber: 8; columnNumber: 17; El contenido no está permitido en la sección final.
+src/test/java/SOAP/TestSoap.feature:7
+16:07:17.688 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/SOAP/TestSoap.feature
+16:08:00.553 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667855280551
+16:08:00.598 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 4 - ^caso de prueba tipo Post$
+16:08:01.710 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:7
+And request
+"""
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>500</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>'
+"""
+org.xml.sax.SAXParseException; lineNumber: 8; columnNumber: 17; El contenido no está permitido en la sección final.
+src/test/java/SOAP/TestSoap.feature:7
+16:08:02.761 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/SOAP/TestSoap.feature
+16:09:07.581 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667855347578
+16:09:07.625 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 4 - ^caso de prueba tipo Post$
+16:09:08.746 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:7
+And request
+"""
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>500</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>'
+"""
+org.xml.sax.SAXParseException; lineNumber: 8; columnNumber: 17; El contenido no está permitido en la sección final.
+src/test/java/SOAP/TestSoap.feature:7
+16:09:09.875 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/SOAP/TestSoap.feature
+16:09:48.842 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667855388839
+16:09:48.888 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 4 - ^caso de prueba tipo Post$
+16:09:51.197 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>500</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+16:09:52.865 [main] DEBUG com.intuit.karate - response time in milliseconds: 1662
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 21:09:53 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>five hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+16:09:53.804 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/SOAP/TestSoap.feature
+16:13:18.737 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667855598735
+16:13:18.787 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 4 - ^caso de prueba tipo Post$
+16:13:21.185 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>500</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+16:13:22.201 [main] DEBUG com.intuit.karate - response time in milliseconds: 1012
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 21:13:22 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>five hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+16:13:22.305 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/body/NumberToWord/ubiNum == 'five hundred'
+match failed: EQUALS
+  $ | actual path does not exist (STRING:STRING)
+  '#notpresent'
+  'five hundred'
+
+src/test/java/SOAP/TestSoap.feature:19
+16:13:23.138 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/SOAP/TestSoap.feature
+16:14:55.621 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667855695619
+16:14:55.678 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 4 - ^caso de prueba tipo Post$
+16:14:58.707 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>500</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+16:14:59.969 [main] DEBUG com.intuit.karate - response time in milliseconds: 1249
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 21:15:00 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>five hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+16:15:00.144 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/envelope/body/NumberToWordsResponse/NumberToWordsResults == 'five hundred'
+match failed: EQUALS
+  $ | actual path does not exist (STRING:STRING)
+  '#notpresent'
+  'five hundred'
+
+src/test/java/SOAP/TestSoap.feature:19
+16:15:01.281 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/SOAP/TestSoap.feature
+16:15:16.259 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667855716255
+16:15:16.307 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 4 - ^caso de prueba tipo Post$
+16:15:18.524 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>500</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+16:15:20.231 [main] DEBUG com.intuit.karate - response time in milliseconds: 1699
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 21:15:21 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>five hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+16:15:20.289 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/Envelope/Body/NumberToWordsResponse/NumberToWordsResults == 'five hundred'
+match failed: EQUALS
+  $ | actual path does not exist (STRING:STRING)
+  '#notpresent'
+  'five hundred'
+
+src/test/java/SOAP/TestSoap.feature:19
+16:15:21.144 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/SOAP/TestSoap.feature
+16:15:48.131 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667855748128
+16:15:48.177 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 4 - ^caso de prueba tipo Post$
+16:15:50.428 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>500</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+16:15:51.790 [main] DEBUG com.intuit.karate - response time in milliseconds: 1352
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 21:15:52 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>five hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+16:15:51.866 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/Envelope/Body/NumberToWordsResponse/NumberToWordsResult == 'five hundred'
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'five hundred '
+  'five hundred'
+
+src/test/java/SOAP/TestSoap.feature:19
+16:15:52.681 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/SOAP/TestSoap.feature
+16:16:57.758 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667855817755
+16:16:57.799 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 4 - ^caso de prueba tipo Post$
+16:17:00.725 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>500</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+16:17:02.186 [main] DEBUG com.intuit.karate - response time in milliseconds: 1456
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 21:17:02 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>five hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+16:17:02.248 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/Envelope/Body/NumberToWordsResponse/NumberToWordsResult == 'five hundred'
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'five hundred '
+  'five hundred'
+
+src/test/java/SOAP/TestSoap.feature:19
+16:17:03.041 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/SOAP/TestSoap.feature
+16:19:12.175 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667855952173
+16:19:12.223 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 4 - ^caso de prueba tipo Post$
+16:19:14.501 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>500</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+16:19:15.835 [main] DEBUG com.intuit.karate - response time in milliseconds: 1321
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 21:19:16 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>five hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+16:19:16.702 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/SOAP/TestSoap.feature
+16:21:51.518 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667856111515
+16:21:51.580 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 4 - ^caso de prueba tipo Post$
+16:21:53.850 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>800</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+16:21:55.155 [main] DEBUG com.intuit.karate - response time in milliseconds: 1300
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 21:21:56 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>eight hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+16:21:55.211 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/Envelope/Body/NumberToWordsResponse/NumberToWordsResult == 'eigth hundred '
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'eight hundred '
+  'eigth hundred '
+
+src/test/java/SOAP/TestSoap.feature:19
+16:21:56.083 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/SOAP/TestSoap.feature
+16:22:14.915 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667856134912
+16:22:14.962 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 4 - ^caso de prueba tipo Post$
+16:22:17.082 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>800</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+16:22:18.718 [main] DEBUG com.intuit.karate - response time in milliseconds: 1629
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 21:22:19 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>eight hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+16:22:19.567 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/SOAP/TestSoap.feature
+16:35:59.365 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667856959362
+16:35:59.426 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 4 - ^caso de prueba query$
+16:36:02.684 [main] DEBUG com.intuit.karate - request:
+1 > POST https://rickandmortyapi.com/graphql
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 97
+1 > Host: rickandmortyapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+{"query":"query {\n  character(id:2){\n    name,\n    status,\n    species,\n    gender\n  }\n}"}
+
+16:36:04.486 [main] DEBUG com.intuit.karate - response time in milliseconds: 1792
+1 < 200
+1 < Accept-Ranges: bytes
+1 < Access-Control-Allow-Credentials: true
+1 < Access-Control-Allow-Headers: *
+1 < Access-Control-Allow-Methods: POST, GET, HEAD, OPTIONS
+1 < Access-Control-Allow-Origin: *
+1 < Access-Control-Expose-Headers: *
+1 < Access-Control-Max-Age: 600
+1 < Age: 0
+1 < Cache-Control: public, s-maxage=900, stale-while-revalidate=900
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Mon, 07 Nov 2022 21:36:05 GMT
+1 < Etag: W/"7a-OLrdp8JoRLq+3STCY/swUOuCDzI"
+1 < Expires: Thu, 10 Nov 2022 21:36:05 GMT
+1 < Gcdn-Cache: MISS
+1 < Server: Netlify
+1 < Strict-Transport-Security: max-age=31536000
+1 < Via: 1.1 varnish
+1 < X-Cache: MISS
+1 < X-Cache-Hits: 0
+1 < X-Nf-Request-Id: 01GHA0B7SKEZFAWRQ71EV2D60G
+1 < X-Powered-By: Stellate
+1 < X-Served-By: cache-fty21379-FTY
+1 < X-Timer: S1667856965.482539,VS0,VE218
+{"data":{"character":{"name":"Morty Smith","status":"Alive","species":"Human","gender":"Male"}}}
+
+16:36:05.343 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/GRAPHQL/TestGraphql.feature
+16:37:58.142 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667857078135
+16:38:01.757 [main] DEBUG com.intuit.karate - request:
+1 > POST https://rickandmortyapi.com/graphql
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 97
+1 > Host: rickandmortyapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+{"query":"query {\n  character(id:2){\n    name,\n    status,\n    species,\n    gender\n  }\n}"}
+
+16:38:03.793 [main] DEBUG com.intuit.karate - response time in milliseconds: 2029
+1 < 200
+1 < Accept-Ranges: bytes
+1 < Access-Control-Allow-Credentials: true
+1 < Access-Control-Allow-Headers: *
+1 < Access-Control-Allow-Methods: POST, GET, HEAD, OPTIONS
+1 < Access-Control-Allow-Origin: *
+1 < Access-Control-Expose-Headers: *
+1 < Access-Control-Max-Age: 600
+1 < Age: 119
+1 < Cache-Control: public, s-maxage=900, stale-while-revalidate=900
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Mon, 07 Nov 2022 21:38:04 GMT
+1 < Etag: W/"7a-OLrdp8JoRLq+3STCY/swUOuCDzI"
+1 < Expires: Thu, 10 Nov 2022 21:36:05 GMT
+1 < Gcdn-Cache: HIT
+1 < Server: Netlify
+1 < Strict-Transport-Security: max-age=31536000
+1 < Via: 1.1 varnish
+1 < X-Cache: HIT
+1 < X-Cache-Hits: 1
+1 < X-Nf-Request-Id: 01GHA0EW7S4V14MVP15Y70XV5T
+1 < X-Powered-By: Stellate
+1 < X-Served-By: cache-fty21371-FTY
+1 < X-Timer: S1667857085.799997,VS0,VE2
+{"data":{"character":{"name":"Morty Smith","status":"Alive","species":"Human","gender":"Male"}}}
+
+16:38:03.840 [main] ERROR com.intuit.karate - src/test/java/GRAPHQL/TestGraphql.feature:21
+And match response.data.character.gender == 'male'
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'Male'
+  'male'
+
+src/test/java/GRAPHQL/TestGraphql.feature:21
+16:38:04.625 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/GRAPHQL/TestGraphql.feature
+16:38:21.798 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667857101794
+16:38:24.245 [main] DEBUG com.intuit.karate - request:
+1 > POST https://rickandmortyapi.com/graphql
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 97
+1 > Host: rickandmortyapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+{"query":"query {\n  character(id:2){\n    name,\n    status,\n    species,\n    gender\n  }\n}"}
+
+16:38:26.421 [main] DEBUG com.intuit.karate - response time in milliseconds: 2165
+1 < 200
+1 < Accept-Ranges: bytes
+1 < Access-Control-Allow-Credentials: true
+1 < Access-Control-Allow-Headers: *
+1 < Access-Control-Allow-Methods: POST, GET, HEAD, OPTIONS
+1 < Access-Control-Allow-Origin: *
+1 < Access-Control-Expose-Headers: *
+1 < Access-Control-Max-Age: 600
+1 < Age: 0
+1 < Cache-Control: public, s-maxage=900, stale-while-revalidate=900
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Mon, 07 Nov 2022 21:38:27 GMT
+1 < Etag: W/"7a-OLrdp8JoRLq+3STCY/swUOuCDzI"
+1 < Expires: Thu, 10 Nov 2022 21:38:27 GMT
+1 < Gcdn-Cache: MISS
+1 < Server: Netlify
+1 < Strict-Transport-Security: max-age=31536000
+1 < Via: 1.1 varnish
+1 < X-Cache: MISS
+1 < X-Cache-Hits: 0
+1 < X-Nf-Request-Id: 01GHA0FJ2Q3HM040FTDM1Y6VEV
+1 < X-Powered-By: Stellate
+1 < X-Served-By: cache-iad-kjyo7100157-IAD
+1 < X-Timer: S1667857107.066812,VS0,VE584
+{"data":{"character":{"name":"Morty Smith","status":"Alive","species":"Human","gender":"Male"}}}
+
+16:38:27.291 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/GRAPHQL/TestGraphql.feature
+16:50:41.846 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667857841838
+16:50:41.930 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 23 - ^caso de prueba tipo .*$
+16:50:45.496 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>800</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+16:50:47.456 [main] DEBUG com.intuit.karate - response time in milliseconds: 1949
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 21:50:48 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>eight hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+16:50:47.471 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 24 - ^caso de prueba tipo .*$
+16:50:47.507 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 242
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>11</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+16:50:48.165 [main] DEBUG com.intuit.karate - response time in milliseconds: 657
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 21:50:49 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>eleven </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+16:50:48.172 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 25 - ^caso de prueba tipo .*$
+16:50:48.199 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 245
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>"800"</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+16:50:48.787 [main] DEBUG com.intuit.karate - response time in milliseconds: 588
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 21:50:49 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>three million two hundred and ninety four thousand eight hundred and ten </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+16:50:48.794 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:20
+Then status 400
+status code was: 200, expected: 400, response time in milliseconds: 588, url: https://www.dataaccess.com/webservicesserver/NumberConversion.wso, response: 
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>three million two hundred and ninety four thousand eight hundred and ten </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+src/test/java/SOAP/TestSoap.feature:20
+16:50:48.797 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 26 - ^caso de prueba tipo .*$
+16:50:48.829 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 244
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>null</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+16:50:49.497 [main] DEBUG com.intuit.karate - response time in milliseconds: 667
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 21:50:50 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>three million two hundred and ninety four thousand eight hundred and thirteen </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+16:50:49.501 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:20
+Then status 400
+status code was: 200, expected: 400, response time in milliseconds: 667, url: https://www.dataaccess.com/webservicesserver/NumberConversion.wso, response: 
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>three million two hundred and ninety four thousand eight hundred and thirteen </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+src/test/java/SOAP/TestSoap.feature:20
+16:50:49.502 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 27 - ^caso de prueba tipo .*$
+16:50:49.522 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 232
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum/>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+16:50:50.520 [main] DEBUG com.intuit.karate - response time in milliseconds: 997
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 21:50:51 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>zero</m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+16:50:50.527 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:20
+Then status 400
+status code was: 200, expected: 400, response time in milliseconds: 997, url: https://www.dataaccess.com/webservicesserver/NumberConversion.wso, response: 
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>zero</m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+src/test/java/SOAP/TestSoap.feature:20
+16:50:53.488 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/SOAP/TestSoap.feature
+17:00:13.434 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667858413429
+17:00:13.540 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 23 - ^caso de prueba tipo .*$
+17:00:17.306 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>800</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+17:00:19.189 [main] DEBUG com.intuit.karate - response time in milliseconds: 1873
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 22:00:20 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>eight hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+17:00:19.430 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/Envelope/Body/NumberToWordsResponse/NumberToWordsResult == 'eigth hundred'
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'eight hundred '
+  'eigth hundred'
+
+src/test/java/SOAP/TestSoap.feature:19
+17:00:19.435 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 24 - ^caso de prueba tipo .*$
+17:00:19.457 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 242
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>11</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+17:00:20.275 [main] DEBUG com.intuit.karate - response time in milliseconds: 818
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 22:00:21 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>eleven </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+17:00:20.287 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/Envelope/Body/NumberToWordsResponse/NumberToWordsResult == 'eleven'
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'eleven '
+  'eleven'
+
+src/test/java/SOAP/TestSoap.feature:19
+17:00:20.289 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 25 - ^caso de prueba tipo .*$
+17:00:20.317 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>200</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+17:00:21.251 [main] DEBUG com.intuit.karate - response time in milliseconds: 933
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 22:00:21 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>two hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+17:00:21.262 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/Envelope/Body/NumberToWordsResponse/NumberToWordsResult == 'two hundred'
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'two hundred '
+  'two hundred'
+
+src/test/java/SOAP/TestSoap.feature:19
+17:00:23.053 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/SOAP/TestSoap.feature
+17:00:59.468 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667858459464
+17:00:59.546 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 22 - ^caso de prueba tipo .*$
+17:01:03.600 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>800</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+17:01:05.301 [main] DEBUG com.intuit.karate - response time in milliseconds: 1685
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 22:01:06 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>eight hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+17:01:05.488 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/Envelope/Body/NumberToWordsResponse/NumberToWordsResult == 'eigth hundred'
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'eight hundred '
+  'eigth hundred'
+
+src/test/java/SOAP/TestSoap.feature:19
+17:01:05.501 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 23 - ^caso de prueba tipo .*$
+17:01:05.521 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 242
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>11</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+17:01:06.304 [main] DEBUG com.intuit.karate - response time in milliseconds: 782
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 22:01:07 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>eleven </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+17:01:06.312 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/Envelope/Body/NumberToWordsResponse/NumberToWordsResult == 'eleven'
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'eleven '
+  'eleven'
+
+src/test/java/SOAP/TestSoap.feature:19
+17:01:06.315 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 24 - ^caso de prueba tipo .*$
+17:01:06.339 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>200</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+17:01:07.011 [main] DEBUG com.intuit.karate - response time in milliseconds: 671
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 22:01:07 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>two hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+17:01:07.022 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/Envelope/Body/NumberToWordsResponse/NumberToWordsResult == 'two hundred'
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'two hundred '
+  'two hundred'
+
+src/test/java/SOAP/TestSoap.feature:19
+17:01:08.599 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/SOAP/TestSoap.feature
+17:01:36.126 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667858496122
+17:01:36.214 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 22 - ^caso de prueba tipo .*$
+17:01:40.538 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>800</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+17:01:42.231 [main] DEBUG com.intuit.karate - response time in milliseconds: 1685
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 22:01:43 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>eight hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+17:01:42.388 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/Envelope/Body/NumberToWordsResponse/NumberToWordsResult == 'eigth hundred'
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'eight hundred '
+  'eigth hundred'
+
+src/test/java/SOAP/TestSoap.feature:19
+17:01:42.392 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 23 - ^caso de prueba tipo .*$
+17:01:42.411 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 242
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>11</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+17:01:43.334 [main] DEBUG com.intuit.karate - response time in milliseconds: 923
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 22:01:44 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>eleven </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+17:01:43.344 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/Envelope/Body/NumberToWordsResponse/NumberToWordsResult == 'eleven'
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'eleven '
+  'eleven'
+
+src/test/java/SOAP/TestSoap.feature:19
+17:01:43.347 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 24 - ^caso de prueba tipo .*$
+17:01:43.374 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>200</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+17:01:44.553 [main] DEBUG com.intuit.karate - response time in milliseconds: 1175
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 22:01:45 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>two hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+17:01:44.564 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/Envelope/Body/NumberToWordsResponse/NumberToWordsResult == 'two hundred'
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'two hundred '
+  'two hundred'
+
+src/test/java/SOAP/TestSoap.feature:19
+17:01:46.146 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/SOAP/TestSoap.feature
+17:03:01.149 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667858581144
+17:03:01.229 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 22 - ^caso de prueba tipo .*$
+17:03:05.142 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>800</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+17:03:06.449 [main] DEBUG com.intuit.karate - response time in milliseconds: 1286
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 22:03:07 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>eight hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+17:03:06.623 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/Envelope/Body/NumberToWordsResponse/NumberToWordsResult == 'eight hundred'
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'eight hundred '
+  'eight hundred'
+
+src/test/java/SOAP/TestSoap.feature:19
+17:03:06.629 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 23 - ^caso de prueba tipo .*$
+17:03:06.656 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 242
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>11</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+17:03:07.434 [main] DEBUG com.intuit.karate - response time in milliseconds: 777
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 22:03:08 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>eleven </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+17:03:07.444 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/Envelope/Body/NumberToWordsResponse/NumberToWordsResult == 'eleven'
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'eleven '
+  'eleven'
+
+src/test/java/SOAP/TestSoap.feature:19
+17:03:07.447 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 24 - ^caso de prueba tipo .*$
+17:03:07.471 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>200</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+17:03:08.213 [main] DEBUG com.intuit.karate - response time in milliseconds: 741
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 22:03:09 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>two hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+17:03:08.225 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/Envelope/Body/NumberToWordsResponse/NumberToWordsResult == 'two hundred'
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'two hundred '
+  'two hundred'
+
+src/test/java/SOAP/TestSoap.feature:19
+17:03:10.179 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/SOAP/TestSoap.feature
+17:03:47.421 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667858627401
+17:03:47.475 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 22 - ^caso de prueba tipo .*$
+17:03:50.534 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>800</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+17:03:52.078 [main] DEBUG com.intuit.karate - response time in milliseconds: 1526
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 22:03:52 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>eight hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+17:03:52.302 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/Envelope/Body/NumberToWordsResponse/NumberToWordsResult == 'eight hundred'
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'eight hundred '
+  'eight hundred'
+
+src/test/java/SOAP/TestSoap.feature:19
+17:03:52.306 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 23 - ^caso de prueba tipo .*$
+17:03:52.350 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 242
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>11</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+17:03:53.061 [main] DEBUG com.intuit.karate - response time in milliseconds: 710
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 22:03:53 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>eleven </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+17:03:53.071 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/Envelope/Body/NumberToWordsResponse/NumberToWordsResult == 'eleven'
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'eleven '
+  'eleven'
+
+src/test/java/SOAP/TestSoap.feature:19
+17:03:53.073 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 24 - ^caso de prueba tipo .*$
+17:03:53.097 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>200</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+17:03:54.108 [main] DEBUG com.intuit.karate - response time in milliseconds: 1010
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 22:03:55 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>two hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+17:03:54.112 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/Envelope/Body/NumberToWordsResponse/NumberToWordsResult == 'two hundred'
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'two hundred '
+  'two hundred'
+
+src/test/java/SOAP/TestSoap.feature:19
+17:03:55.873 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/SOAP/TestSoap.feature
+17:04:43.095 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667858683088
+17:04:43.186 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 22 - ^caso de prueba tipo .*$
+17:04:47.382 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>800</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+17:04:48.792 [main] DEBUG com.intuit.karate - response time in milliseconds: 1403
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 22:04:49 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>eight hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+17:04:48.923 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/Envelope/Body/NumberToWordsResponse/NumberToWordsResult == ''eight hundred ''
+js failed:
+>>>>
+01: ''eight hundred ''
+<<<<
+org.graalvm.polyglot.PolyglotException: SyntaxError: Unnamed:1:2 Expected ; but found eight
+''eight hundred ''
+  ^
+
+- org.graalvm.polyglot.Context.eval(Context.java:425)
+- com.intuit.karate.graal.JsEngine.evalForValue(JsEngine.java:139)
+- com.intuit.karate.graal.JsEngine.eval(JsEngine.java:135)
+- com.intuit.karate.core.ScenarioEngine.evalJs(ScenarioEngine.java:1190)
+- com.intuit.karate.core.ScenarioEngine.evalKarateExpression(ScenarioEngine.java:2143)
+- com.intuit.karate.core.ScenarioEngine.match(ScenarioEngine.java:1741)
+- com.intuit.karate.core.ScenarioEngine.matchResult(ScenarioEngine.java:174)
+
+src/test/java/SOAP/TestSoap.feature:19
+17:04:48.924 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 23 - ^caso de prueba tipo .*$
+17:04:48.936 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 242
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>11</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+17:04:49.794 [main] DEBUG com.intuit.karate - response time in milliseconds: 858
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 22:04:50 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>eleven </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+17:04:49.823 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/Envelope/Body/NumberToWordsResponse/NumberToWordsResult == 'eleven'
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'eleven '
+  'eleven'
+
+src/test/java/SOAP/TestSoap.feature:19
+17:04:49.829 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 24 - ^caso de prueba tipo .*$
+17:04:49.854 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>200</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+17:04:50.654 [main] DEBUG com.intuit.karate - response time in milliseconds: 798
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 22:04:51 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>two hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+17:04:50.662 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/Envelope/Body/NumberToWordsResponse/NumberToWordsResult == 'two hundred'
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'two hundred '
+  'two hundred'
+
+src/test/java/SOAP/TestSoap.feature:19
+17:04:52.409 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/SOAP/TestSoap.feature
+17:05:17.460 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667858717457
+17:05:17.538 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 22 - ^caso de prueba tipo .*$
+17:05:20.552 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>800</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+17:05:22.080 [main] DEBUG com.intuit.karate - response time in milliseconds: 1506
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 22:05:23 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>eight hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+17:05:22.232 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/Envelope/Body/NumberToWordsResponse/NumberToWordsResult == ''eight hundred ''
+js failed:
+>>>>
+01: ''eight hundred ''
+<<<<
+org.graalvm.polyglot.PolyglotException: SyntaxError: Unnamed:1:2 Expected ; but found eight
+''eight hundred ''
+  ^
+
+- org.graalvm.polyglot.Context.eval(Context.java:425)
+- com.intuit.karate.graal.JsEngine.evalForValue(JsEngine.java:139)
+- com.intuit.karate.graal.JsEngine.eval(JsEngine.java:135)
+- com.intuit.karate.core.ScenarioEngine.evalJs(ScenarioEngine.java:1190)
+- com.intuit.karate.core.ScenarioEngine.evalKarateExpression(ScenarioEngine.java:2143)
+- com.intuit.karate.core.ScenarioEngine.match(ScenarioEngine.java:1741)
+- com.intuit.karate.core.ScenarioEngine.matchResult(ScenarioEngine.java:174)
+
+src/test/java/SOAP/TestSoap.feature:19
+17:05:22.233 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 23 - ^caso de prueba tipo .*$
+17:05:22.248 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 242
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>11</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+17:05:23.177 [main] DEBUG com.intuit.karate - response time in milliseconds: 926
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 22:05:24 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>eleven </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+17:05:23.188 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/Envelope/Body/NumberToWordsResponse/NumberToWordsResult == ''eleven ''
+js failed:
+>>>>
+01: ''eleven ''
+<<<<
+org.graalvm.polyglot.PolyglotException: SyntaxError: Unnamed:1:2 Expected ; but found eleven
+''eleven ''
+  ^
+
+- org.graalvm.polyglot.Context.eval(Context.java:425)
+- com.intuit.karate.graal.JsEngine.evalForValue(JsEngine.java:139)
+- com.intuit.karate.graal.JsEngine.eval(JsEngine.java:135)
+- com.intuit.karate.core.ScenarioEngine.evalJs(ScenarioEngine.java:1190)
+- com.intuit.karate.core.ScenarioEngine.evalKarateExpression(ScenarioEngine.java:2143)
+- com.intuit.karate.core.ScenarioEngine.match(ScenarioEngine.java:1741)
+- com.intuit.karate.core.ScenarioEngine.matchResult(ScenarioEngine.java:174)
+
+src/test/java/SOAP/TestSoap.feature:19
+17:05:23.190 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 24 - ^caso de prueba tipo .*$
+17:05:23.215 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>200</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+17:05:23.897 [main] DEBUG com.intuit.karate - response time in milliseconds: 681
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 22:05:24 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>two hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+17:05:23.908 [main] ERROR com.intuit.karate - src/test/java/SOAP/TestSoap.feature:19
+And match response/Envelope/Body/NumberToWordsResponse/NumberToWordsResult == ''two hundred ''
+js failed:
+>>>>
+01: ''two hundred ''
+<<<<
+org.graalvm.polyglot.PolyglotException: SyntaxError: Unnamed:1:2 Expected ; but found two
+''two hundred ''
+  ^
+
+- org.graalvm.polyglot.Context.eval(Context.java:425)
+- com.intuit.karate.graal.JsEngine.evalForValue(JsEngine.java:139)
+- com.intuit.karate.graal.JsEngine.eval(JsEngine.java:135)
+- com.intuit.karate.core.ScenarioEngine.evalJs(ScenarioEngine.java:1190)
+- com.intuit.karate.core.ScenarioEngine.evalKarateExpression(ScenarioEngine.java:2143)
+- com.intuit.karate.core.ScenarioEngine.match(ScenarioEngine.java:1741)
+- com.intuit.karate.core.ScenarioEngine.matchResult(ScenarioEngine.java:174)
+
+src/test/java/SOAP/TestSoap.feature:19
+17:05:25.968 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/SOAP/TestSoap.feature
+17:06:23.091 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667858783086
+17:06:23.172 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 22 - ^caso de prueba tipo .*$
+17:06:26.339 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>800</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+17:06:27.837 [main] DEBUG com.intuit.karate - response time in milliseconds: 1485
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 22:06:28 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>eight hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+17:06:27.969 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 23 - ^caso de prueba tipo .*$
+17:06:27.990 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 242
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>11</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+17:06:28.714 [main] DEBUG com.intuit.karate - response time in milliseconds: 723
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 22:06:29 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>eleven </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+17:06:28.724 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 24 - ^caso de prueba tipo .*$
+17:06:28.751 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>200</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+17:06:29.236 [main] DEBUG com.intuit.karate - response time in milliseconds: 484
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Mon, 07 Nov 2022 22:06:30 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>two hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+17:06:31.164 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/SOAP/TestSoap.feature
+09:42:31.302 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667918551278
+09:42:31.386 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 22 - ^caso de prueba tipo .*$
+09:42:34.949 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>800</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+09:42:36.046 [main] DEBUG com.intuit.karate - response time in milliseconds: 1091
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Tue, 08 Nov 2022 14:42:35 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>eight hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+09:42:36.145 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 23 - ^caso de prueba tipo .*$
+09:42:36.158 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 242
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>11</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+09:42:36.439 [main] DEBUG com.intuit.karate - response time in milliseconds: 281
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Tue, 08 Nov 2022 14:42:35 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>eleven </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+09:42:36.447 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 24 - ^caso de prueba tipo .*$
+09:42:36.460 [main] DEBUG com.intuit.karate - request:
+1 > POST https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+1 > Content-Type: text/xml; charset=UTF-8
+1 > Content-Length: 243
+1 > Host: www.dataaccess.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
+      <ubiNum>200</ubiNum>
+    </NumberToWords>
+  </soap:Body>
+</soap:Envelope>
+
+09:42:36.777 [main] DEBUG com.intuit.karate - response time in milliseconds: 317
+1 < 200
+1 < Cache-Control: private, max-age=0
+1 < Content-Type: text/xml; charset=utf-8
+1 < Vary: Accept-Encoding
+1 < Server: Server
+1 < Web-Service: DataFlex 19.1
+1 < X-Powered-By: ASP.NET
+1 < Date: Tue, 08 Nov 2022 14:42:36 GMT
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+      <m:NumberToWordsResult>two hundred </m:NumberToWordsResult>
+    </m:NumberToWordsResponse>
+  </soap:Body>
+</soap:Envelope>
+
+09:42:37.969 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/SOAP/TestSoap.feature
+09:52:34.879 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667919154876
+09:52:34.951 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 26 - ^caso de prueba .*$
+09:52:38.476 [main] DEBUG com.intuit.karate - request:
+1 > POST https://rickandmortyapi.com/graphql
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 97
+1 > Host: rickandmortyapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+{"query":"query {\n  character(id:2){\n    name,\n    status,\n    species,\n    gender\n  }\n}"}
+
+09:52:39.856 [main] DEBUG com.intuit.karate - response time in milliseconds: 1377
+1 < 200
+1 < Accept-Ranges: bytes
+1 < Access-Control-Allow-Credentials: true
+1 < Access-Control-Allow-Headers: *
+1 < Access-Control-Allow-Methods: POST, GET, HEAD, OPTIONS
+1 < Access-Control-Allow-Origin: *
+1 < Access-Control-Expose-Headers: *
+1 < Access-Control-Max-Age: 600
+1 < Age: 0
+1 < Cache-Control: public, s-maxage=900, stale-while-revalidate=900
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Tue, 08 Nov 2022 14:52:39 GMT
+1 < Etag: W/"7a-OLrdp8JoRLq+3STCY/swUOuCDzI"
+1 < Expires: Fri, 11 Nov 2022 14:52:39 GMT
+1 < Gcdn-Cache: MISS
+1 < Server: Netlify
+1 < Strict-Transport-Security: max-age=31536000
+1 < Via: 1.1 varnish
+1 < X-Cache: MISS
+1 < X-Cache-Hits: 0
+1 < X-Nf-Request-Id: 01GHBVN7YZTT3CBXSADDJZNJKT
+1 < X-Powered-By: Stellate
+1 < X-Served-By: cache-iad-kjyo7100066-IAD
+1 < X-Timer: S1667919159.314906,VS0,VE456
+{"data":{"character":{"name":"Morty Smith","status":"Alive","species":"Human","gender":"Male"}}}
+
+09:52:39.901 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 27 - ^caso de prueba .*$
+09:52:39.913 [main] DEBUG com.intuit.karate - request:
+1 > POST https://rickandmortyapi.com/graphql
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 98
+1 > Host: rickandmortyapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+{"query":"query {\n  character(id:13){\n    name,\n    status,\n    species,\n    gender\n  }\n}"}
+
+09:52:40.765 [main] DEBUG com.intuit.karate - response time in milliseconds: 852
+1 < 200
+1 < Accept-Ranges: bytes
+1 < Access-Control-Allow-Credentials: true
+1 < Access-Control-Allow-Headers: *
+1 < Access-Control-Allow-Methods: POST, GET, HEAD, OPTIONS
+1 < Access-Control-Allow-Origin: *
+1 < Access-Control-Expose-Headers: *
+1 < Access-Control-Max-Age: 600
+1 < Age: 0
+1 < Cache-Control: public, s-maxage=900, stale-while-revalidate=900
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Tue, 08 Nov 2022 14:52:40 GMT
+1 < Etag: W/"80-0a77oXDPjGopl2jk7MPOIQvlu+k"
+1 < Expires: Fri, 11 Nov 2022 14:52:40 GMT
+1 < Gcdn-Cache: MISS
+1 < Server: Netlify
+1 < Strict-Transport-Security: max-age=31536000
+1 < Via: 1.1 varnish
+1 < X-Cache: MISS
+1 < X-Cache-Hits: 0
+1 < X-Nf-Request-Id: 01GHBVN92BS6F0T4MHZ8Q98Z1E
+1 < X-Powered-By: Stellate
+1 < X-Served-By: cache-iad-kjyo7100066-IAD
+1 < X-Timer: S1667919160.404076,VS0,VE323
+{"data":{"character":{"name":"Alien Googah","status":"unknown","species":"Alien","gender":"unknown"}}}
+
+09:52:40.772 [main] ERROR com.intuit.karate - src/test/java/GRAPHQL/TestGraphql.feature:22
+And match response.data.character.gender == 'Male'
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'unknown'
+  'Male'
+
+src/test/java/GRAPHQL/TestGraphql.feature:22
+09:52:40.775 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 28 - ^caso de prueba .*$
+09:52:40.792 [main] DEBUG com.intuit.karate - request:
+1 > POST https://rickandmortyapi.com/graphql
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 97
+1 > Host: rickandmortyapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+{"query":"query {\n  character(id:3){\n    name,\n    status,\n    species,\n    gender\n  }\n}"}
+
+09:52:41.581 [main] DEBUG com.intuit.karate - response time in milliseconds: 788
+1 < 200
+1 < Accept-Ranges: bytes
+1 < Access-Control-Allow-Credentials: true
+1 < Access-Control-Allow-Headers: *
+1 < Access-Control-Allow-Methods: POST, GET, HEAD, OPTIONS
+1 < Access-Control-Allow-Origin: *
+1 < Access-Control-Expose-Headers: *
+1 < Access-Control-Max-Age: 600
+1 < Age: 0
+1 < Cache-Control: public, s-maxage=900, stale-while-revalidate=900
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Tue, 08 Nov 2022 14:52:41 GMT
+1 < Etag: W/"7d-SorGp974l93SgKMZ8L5hRxZa2J8"
+1 < Expires: Fri, 11 Nov 2022 14:52:41 GMT
+1 < Gcdn-Cache: MISS
+1 < Server: Netlify
+1 < Strict-Transport-Security: max-age=31536000
+1 < Via: 1.1 varnish
+1 < X-Cache: MISS
+1 < X-Cache-Hits: 0
+1 < X-Nf-Request-Id: 01GHBVN9SFV85S6FCZN7V5X79F
+1 < X-Powered-By: Stellate
+1 < X-Served-By: cache-iad-kjyo7100066-IAD
+1 < X-Timer: S1667919161.142421,VS0,VE402
+{"data":{"character":{"name":"Summer Smith","status":"Alive","species":"Human","gender":"Female"}}}
+
+09:52:41.584 [main] ERROR com.intuit.karate - src/test/java/GRAPHQL/TestGraphql.feature:22
+And match response.data.character.gender == 'Male'
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'Female'
+  'Male'
+
+src/test/java/GRAPHQL/TestGraphql.feature:22
+09:52:41.585 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 29 - ^caso de prueba .*$
+09:52:41.599 [main] DEBUG com.intuit.karate - request:
+1 > POST https://rickandmortyapi.com/graphql
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 98
+1 > Host: rickandmortyapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+{"query":"query {\n  character(id:40){\n    name,\n    status,\n    species,\n    gender\n  }\n}"}
+
+09:52:42.467 [main] DEBUG com.intuit.karate - response time in milliseconds: 867
+1 < 200
+1 < Accept-Ranges: bytes
+1 < Access-Control-Allow-Credentials: true
+1 < Access-Control-Allow-Headers: *
+1 < Access-Control-Allow-Methods: POST, GET, HEAD, OPTIONS
+1 < Access-Control-Allow-Origin: *
+1 < Access-Control-Expose-Headers: *
+1 < Access-Control-Max-Age: 600
+1 < Age: 0
+1 < Cache-Control: public, s-maxage=900, stale-while-revalidate=900
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Tue, 08 Nov 2022 14:52:42 GMT
+1 < Etag: W/"8f-uPpdsIwgGWp0svEOdJRqsbUN6p0"
+1 < Expires: Fri, 11 Nov 2022 14:52:42 GMT
+1 < Gcdn-Cache: MISS
+1 < Server: Netlify
+1 < Strict-Transport-Security: max-age=31536000
+1 < Via: 1.1 varnish
+1 < X-Cache: MISS
+1 < X-Cache-Hits: 0
+1 < X-Nf-Request-Id: 01GHBVNAQ14N3MYVJQRD2VMAG3
+1 < X-Powered-By: Stellate
+1 < X-Served-By: cache-iad-kjyo7100066-IAD
+1 < X-Timer: S1667919162.089708,VS0,VE338
+{"data":{"character":{"name":"Beth's Mytholog","status":"Dead","species":"Mythological Creature","gender":"Female"}}}
+
+09:52:42.472 [main] ERROR com.intuit.karate - src/test/java/GRAPHQL/TestGraphql.feature:22
+And match response.data.character.gender == 'Male'
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'Female'
+  'Male'
+
+src/test/java/GRAPHQL/TestGraphql.feature:22
+09:52:42.474 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 30 - ^caso de prueba .*$
+09:52:42.487 [main] DEBUG com.intuit.karate - request:
+1 > POST https://rickandmortyapi.com/graphql
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 98
+1 > Host: rickandmortyapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+{"query":"query {\n  character(id:10){\n    name,\n    status,\n    species,\n    gender\n  }\n}"}
+
+09:52:43.375 [main] DEBUG com.intuit.karate - response time in milliseconds: 887
+1 < 200
+1 < Accept-Ranges: bytes
+1 < Access-Control-Allow-Credentials: true
+1 < Access-Control-Allow-Headers: *
+1 < Access-Control-Allow-Methods: POST, GET, HEAD, OPTIONS
+1 < Access-Control-Allow-Origin: *
+1 < Access-Control-Expose-Headers: *
+1 < Access-Control-Max-Age: 600
+1 < Age: 1
+1 < Cache-Control: public, s-maxage=900, stale-while-revalidate=900
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Tue, 08 Nov 2022 14:52:43 GMT
+1 < Etag: W/"78-dQgW4ZBsD/CWGZyQYnZf2ZBGBfk"
+1 < Expires: Fri, 11 Nov 2022 14:52:43 GMT
+1 < Gcdn-Cache: MISS
+1 < Server: Netlify
+1 < Strict-Transport-Security: max-age=31536000
+1 < Via: 1.1 varnish
+1 < X-Cache: MISS
+1 < X-Cache-Hits: 0
+1 < X-Nf-Request-Id: 01GHBVNBE41MNVBVFD3NT3TY1R
+1 < X-Powered-By: Stellate
+1 < X-Served-By: cache-iad-kjyo7100066-IAD
+1 < X-Timer: S1667919163.827964,VS0,VE504
+{"data":{"character":{"name":"Alan Rails","status":"Dead","species":"Human","gender":"Male"}}}
+
+09:52:44.619 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/GRAPHQL/TestGraphql.feature
+09:53:22.553 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667919202542
+09:53:22.692 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 25 - ^caso de prueba .*$
+09:53:27.667 [main] DEBUG com.intuit.karate - request:
+1 > POST https://rickandmortyapi.com/graphql
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 97
+1 > Host: rickandmortyapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+{"query":"query {\n  character(id:2){\n    name,\n    status,\n    species,\n    gender\n  }\n}"}
+
+09:53:28.885 [main] DEBUG com.intuit.karate - response time in milliseconds: 1214
+1 < 200
+1 < Accept-Ranges: bytes
+1 < Access-Control-Allow-Credentials: true
+1 < Access-Control-Allow-Headers: *
+1 < Access-Control-Allow-Methods: POST, GET, HEAD, OPTIONS
+1 < Access-Control-Allow-Origin: *
+1 < Access-Control-Expose-Headers: *
+1 < Access-Control-Max-Age: 600
+1 < Age: 0
+1 < Cache-Control: public, s-maxage=900, stale-while-revalidate=900
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Tue, 08 Nov 2022 14:53:28 GMT
+1 < Etag: W/"7a-OLrdp8JoRLq+3STCY/swUOuCDzI"
+1 < Expires: Fri, 11 Nov 2022 14:53:28 GMT
+1 < Gcdn-Cache: MISS
+1 < Server: Netlify
+1 < Strict-Transport-Security: max-age=31536000
+1 < Via: 1.1 varnish
+1 < X-Cache: MISS
+1 < X-Cache-Hits: 0
+1 < X-Nf-Request-Id: 01GHBVPQXMB7MTMXQGQ5F92B5V
+1 < X-Powered-By: Stellate
+1 < X-Served-By: cache-fty21334-FTY
+1 < X-Timer: S1667919208.469172,VS0,VE346
+{"data":{"character":{"name":"Morty Smith","status":"Alive","species":"Human","gender":"Male"}}}
+
+09:53:28.890 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 26 - ^caso de prueba .*$
+09:53:28.904 [main] DEBUG com.intuit.karate - request:
+1 > POST https://rickandmortyapi.com/graphql
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 98
+1 > Host: rickandmortyapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+{"query":"query {\n  character(id:13){\n    name,\n    status,\n    species,\n    gender\n  }\n}"}
+
+09:53:29.594 [main] DEBUG com.intuit.karate - response time in milliseconds: 689
+1 < 200
+1 < Accept-Ranges: bytes
+1 < Access-Control-Allow-Credentials: true
+1 < Access-Control-Allow-Headers: *
+1 < Access-Control-Allow-Methods: POST, GET, HEAD, OPTIONS
+1 < Access-Control-Allow-Origin: *
+1 < Access-Control-Expose-Headers: *
+1 < Access-Control-Max-Age: 600
+1 < Age: 0
+1 < Cache-Control: public, s-maxage=900, stale-while-revalidate=900
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Tue, 08 Nov 2022 14:53:29 GMT
+1 < Etag: W/"80-0a77oXDPjGopl2jk7MPOIQvlu+k"
+1 < Expires: Fri, 11 Nov 2022 14:53:29 GMT
+1 < Gcdn-Cache: MISS
+1 < Server: Netlify
+1 < Strict-Transport-Security: max-age=31536000
+1 < Via: 1.1 varnish
+1 < X-Cache: MISS
+1 < X-Cache-Hits: 0
+1 < X-Nf-Request-Id: 01GHBVPRPZQZBV9WKVSMHGFCAR
+1 < X-Powered-By: Stellate
+1 < X-Served-By: cache-fty21334-FTY
+1 < X-Timer: S1667919209.196153,VS0,VE361
+{"data":{"character":{"name":"Alien Googah","status":"unknown","species":"Alien","gender":"unknown"}}}
+
+09:53:29.598 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 27 - ^caso de prueba .*$
+09:53:29.614 [main] DEBUG com.intuit.karate - request:
+1 > POST https://rickandmortyapi.com/graphql
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 97
+1 > Host: rickandmortyapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+{"query":"query {\n  character(id:3){\n    name,\n    status,\n    species,\n    gender\n  }\n}"}
+
+09:53:30.278 [main] DEBUG com.intuit.karate - response time in milliseconds: 662
+1 < 200
+1 < Accept-Ranges: bytes
+1 < Access-Control-Allow-Credentials: true
+1 < Access-Control-Allow-Headers: *
+1 < Access-Control-Allow-Methods: POST, GET, HEAD, OPTIONS
+1 < Access-Control-Allow-Origin: *
+1 < Access-Control-Expose-Headers: *
+1 < Access-Control-Max-Age: 600
+1 < Age: 1
+1 < Cache-Control: public, s-maxage=900, stale-while-revalidate=900
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Tue, 08 Nov 2022 14:53:30 GMT
+1 < Etag: W/"7d-SorGp974l93SgKMZ8L5hRxZa2J8"
+1 < Expires: Fri, 11 Nov 2022 14:53:30 GMT
+1 < Gcdn-Cache: MISS
+1 < Server: Netlify
+1 < Strict-Transport-Security: max-age=31536000
+1 < Via: 1.1 varnish
+1 < X-Cache: MISS
+1 < X-Cache-Hits: 0
+1 < X-Nf-Request-Id: 01GHBVPSDB0TZXCED1543KG0MG
+1 < X-Powered-By: Stellate
+1 < X-Served-By: cache-fty21334-FTY
+1 < X-Timer: S1667919210.912573,VS0,VE330
+{"data":{"character":{"name":"Summer Smith","status":"Alive","species":"Human","gender":"Female"}}}
+
+09:53:30.280 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 28 - ^caso de prueba .*$
+09:53:30.290 [main] DEBUG com.intuit.karate - request:
+1 > POST https://rickandmortyapi.com/graphql
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 98
+1 > Host: rickandmortyapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+{"query":"query {\n  character(id:40){\n    name,\n    status,\n    species,\n    gender\n  }\n}"}
+
+09:53:31.592 [main] DEBUG com.intuit.karate - response time in milliseconds: 1301
+1 < 200
+1 < Accept-Ranges: bytes
+1 < Access-Control-Allow-Credentials: true
+1 < Access-Control-Allow-Headers: *
+1 < Access-Control-Allow-Methods: POST, GET, HEAD, OPTIONS
+1 < Access-Control-Allow-Origin: *
+1 < Access-Control-Expose-Headers: *
+1 < Access-Control-Max-Age: 600
+1 < Age: 0
+1 < Cache-Control: public, s-maxage=900, stale-while-revalidate=900
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Tue, 08 Nov 2022 14:53:31 GMT
+1 < Etag: W/"8f-uPpdsIwgGWp0svEOdJRqsbUN6p0"
+1 < Expires: Fri, 11 Nov 2022 14:53:31 GMT
+1 < Gcdn-Cache: MISS
+1 < Server: Netlify
+1 < Strict-Transport-Security: max-age=31536000
+1 < Via: 1.1 varnish
+1 < X-Cache: MISS
+1 < X-Cache-Hits: 0
+1 < X-Nf-Request-Id: 01GHBVPTN7C9WVXB3SJRZJPK5C
+1 < X-Powered-By: Stellate
+1 < X-Served-By: cache-fty21334-FTY
+1 < X-Timer: S1667919211.192700,VS0,VE364
+{"data":{"character":{"name":"Beth's Mytholog","status":"Dead","species":"Mythological Creature","gender":"Female"}}}
+
+09:53:31.597 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 29 - ^caso de prueba .*$
+09:53:31.622 [main] DEBUG com.intuit.karate - request:
+1 > POST https://rickandmortyapi.com/graphql
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 98
+1 > Host: rickandmortyapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/1.8.0_321)
+1 > Accept-Encoding: gzip,deflate
+{"query":"query {\n  character(id:10){\n    name,\n    status,\n    species,\n    gender\n  }\n}"}
+
+09:53:32.166 [main] DEBUG com.intuit.karate - response time in milliseconds: 543
+1 < 200
+1 < Accept-Ranges: bytes
+1 < Access-Control-Allow-Credentials: true
+1 < Access-Control-Allow-Headers: *
+1 < Access-Control-Allow-Methods: POST, GET, HEAD, OPTIONS
+1 < Access-Control-Allow-Origin: *
+1 < Access-Control-Expose-Headers: *
+1 < Access-Control-Max-Age: 600
+1 < Age: 1
+1 < Cache-Control: public, s-maxage=900, stale-while-revalidate=900
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Tue, 08 Nov 2022 14:53:32 GMT
+1 < Etag: W/"78-dQgW4ZBsD/CWGZyQYnZf2ZBGBfk"
+1 < Expires: Fri, 11 Nov 2022 14:53:32 GMT
+1 < Gcdn-Cache: MISS
+1 < Server: Netlify
+1 < Strict-Transport-Security: max-age=31536000
+1 < Via: 1.1 varnish
+1 < X-Cache: MISS
+1 < X-Cache-Hits: 0
+1 < X-Nf-Request-Id: 01GHBVPVB46MFN1KCAZCBKP95T
+1 < X-Powered-By: Stellate
+1 < X-Served-By: cache-fty21334-FTY
+1 < X-Timer: S1667919212.889685,VS0,VE240
+{"data":{"character":{"name":"Alan Rails","status":"Dead","species":"Human","gender":"Male"}}}
+
+09:53:33.489 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/GRAPHQL/TestGraphql.feature
+11:56:57.635 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667926617630
+11:56:57.701 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 8 - ^lectura de valores de la db$
+11:56:59.730 [main] ERROR com.intuit.karate - src/test/java/connectDB/connectDB.feature:6
+* def db = new DbUtils(config)
+js failed:
+>>>>
+01: new DbUtils(config)
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "DbUtils" is not defined
+- <js>.:program(Unnamed:1)
+
+src/test/java/connectDB/connectDB.feature:6
+11:57:01.152 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/connectDB/connectDB.feature
+11:57:32.994 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667926652973
+11:57:33.303 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 8 - ^lectura de valores de la db$
+11:57:41.551 [main] ERROR com.intuit.karate - src/test/java/connectDB/connectDB.feature:6
+* def db = new DbUtils(config)
+js failed:
+>>>>
+01: new DbUtils(config)
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "DbUtils" is not defined
+- <js>.:program(Unnamed:1)
+
+src/test/java/connectDB/connectDB.feature:6
+11:57:42.773 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/connectDB/connectDB.feature
+11:58:32.095 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667926712093
+11:58:32.186 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 8 - ^lectura de valores de la db$
+11:58:35.274 [main] ERROR com.intuit.karate - src/test/java/connectDB/connectDB.feature:6
+* def db = new DbUtils(config)
+js failed:
+>>>>
+01: new DbUtils(config)
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "DbUtils" is not defined
+- <js>.:program(Unnamed:1)
+
+src/test/java/connectDB/connectDB.feature:6
+11:58:36.996 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/connectDB/connectDB.feature
+12:00:31.084 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667926831073
+12:00:31.173 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 8 - ^lectura de valores de la db$
+12:00:34.814 [main] ERROR com.intuit.karate - src/test/java/connectDB/connectDB.feature:6
+* def db = new DbUtils(config)
+js failed:
+>>>>
+01: new DbUtils(config)
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "DbUtils" is not defined
+- <js>.:program(Unnamed:1)
+
+src/test/java/connectDB/connectDB.feature:6
+12:00:37.775 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/connectDB/connectDB.feature
+12:00:58.127 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667926858124
+12:00:58.167 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 8 - ^lectura de valores de la db$
+12:00:59.522 [main] ERROR com.intuit.karate - src/test/java/connectDB/connectDB.feature:6
+* def db = new DbUtils(config)
+js failed:
+>>>>
+01: new DbUtils(config)
+<<<<
+org.graalvm.polyglot.PolyglotException: Property 'driverClassName' must not be empty
+- org.springframework.util.Assert.hasText(Assert.java:289)
+- org.springframework.jdbc.datasource.DriverManagerDataSource.setDriverClassName(DriverManagerDataSource.java:125)
+- connectDB.DbUtils.<init>(DbUtils.java:22)
+- <js>.:program(Unnamed:1)
+
+src/test/java/connectDB/connectDB.feature:6
+12:01:00.575 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/connectDB/connectDB.feature
+12:03:11.095 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667926991091
+12:03:11.170 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 8 - ^lectura de valores de la db$
+12:03:13.075 [main] ERROR com.intuit.karate - src/test/java/connectDB/connectDB.feature:6
+* def db = new DbUtils(config)
+js failed:
+>>>>
+01: new DbUtils(config)
+<<<<
+org.graalvm.polyglot.PolyglotException: Property 'driverClassName' must not be empty
+- org.springframework.util.Assert.hasText(Assert.java:289)
+- org.springframework.jdbc.datasource.DriverManagerDataSource.setDriverClassName(DriverManagerDataSource.java:125)
+- connectDB.DbUtils.<init>(DbUtils.java:22)
+- <js>.:program(Unnamed:1)
+
+src/test/java/connectDB/connectDB.feature:6
+12:03:14.273 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/connectDB/connectDB.feature
+12:05:54.089 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667927154083
+12:05:54.144 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 8 - ^lectura de valores de la db$
+12:05:55.911 [main] ERROR com.intuit.karate - src/test/java/connectDB/connectDB.feature:6
+* def db = new DbUtils(config)
+js failed:
+>>>>
+01: new DbUtils(config)
+<<<<
+org.graalvm.polyglot.PolyglotException: Property 'driverClassName' must not be empty
+- org.springframework.util.Assert.hasText(Assert.java:289)
+- org.springframework.jdbc.datasource.DriverManagerDataSource.setDriverClassName(DriverManagerDataSource.java:125)
+- connectDB.DbUtils.<init>(DbUtils.java:22)
+- <js>.:program(Unnamed:1)
+
+src/test/java/connectDB/connectDB.feature:6
+12:05:57.143 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/connectDB/connectDB.feature
+12:06:10.771 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667927170766
+12:06:10.816 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 8 - ^lectura de valores de la db$
+12:06:12.202 [main] ERROR com.intuit.karate - src/test/java/connectDB/connectDB.feature:6
+* def db = new DbUtils('config')
+js failed:
+>>>>
+01: new DbUtils('config')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: instantiate on connectDB.DbUtils failed due to: Cannot convert 'config'(language: Java, type: java.lang.String) to Java type 'java.util.Map': Unsupported target type.
+- <js>.:program(Unnamed:1)
+
+src/test/java/connectDB/connectDB.feature:6
+12:06:13.289 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/connectDB/connectDB.feature
+12:19:50.091 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667927990086
+12:19:50.144 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 8 - ^lectura de valores de la db$
+12:19:51.906 [main] ERROR com.intuit.karate - src/test/java/connectDB/connectDB.feature:6
+* def db = new DbUtils(config)
+js failed:
+>>>>
+01: new DbUtils(config)
+<<<<
+org.graalvm.polyglot.PolyglotException: Property 'driverClassName' must not be empty
+- org.springframework.util.Assert.hasText(Assert.java:289)
+- org.springframework.jdbc.datasource.DriverManagerDataSource.setDriverClassName(DriverManagerDataSource.java:125)
+- connectDB.DbUtils.<init>(DbUtils.java:22)
+- <js>.:program(Unnamed:1)
+
+src/test/java/connectDB/connectDB.feature:6
+12:19:53.117 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/connectDB/connectDB.feature
+12:20:33.947 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667928033944
+12:20:33.989 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 8 - ^lectura de valores de la db$
+12:20:35.533 [main] ERROR com.intuit.karate - src/test/java/connectDB/connectDB.feature:6
+* def db = new DBUtils(config)
+js failed:
+>>>>
+01: new DBUtils(config)
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "DBUtils" is not defined
+- <js>.:program(Unnamed:1)
+
+src/test/java/connectDB/connectDB.feature:6
+12:20:37.177 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/connectDB/connectDB.feature
+12:21:10.223 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667928070218
+12:21:10.292 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 8 - ^lectura de valores de la db$
+12:21:12.128 [main] ERROR com.intuit.karate - src/test/java/connectDB/connectDB.feature:6
+* def db = new DBUtils(config)
+js failed:
+>>>>
+01: new DBUtils(config)
+<<<<
+org.graalvm.polyglot.PolyglotException: Property 'driverClassName' must not be empty
+- org.springframework.util.Assert.hasText(Assert.java:289)
+- org.springframework.jdbc.datasource.DriverManagerDataSource.setDriverClassName(DriverManagerDataSource.java:125)
+- connectDB.DbUtils.<init>(DbUtils.java:22)
+- <js>.:program(Unnamed:1)
+
+src/test/java/connectDB/connectDB.feature:6
+12:21:13.323 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/connectDB/connectDB.feature
+12:22:24.014 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667928144012
+12:22:24.055 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 8 - ^lectura de valores de la db$
+12:22:25.824 [main] ERROR com.intuit.karate - src/test/java/connectDB/connectDB.feature:6
+* def db = new DBUtils(config)
+js failed:
+>>>>
+01: new DBUtils(config)
+<<<<
+org.graalvm.polyglot.PolyglotException: Property 'driverClassName' must not be empty
+- org.springframework.util.Assert.hasText(Assert.java:289)
+- org.springframework.jdbc.datasource.DriverManagerDataSource.setDriverClassName(DriverManagerDataSource.java:125)
+- connectDB.DbUtils.<init>(DbUtils.java:22)
+- <js>.:program(Unnamed:1)
+
+src/test/java/connectDB/connectDB.feature:6
+12:22:27.013 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/connectDB/connectDB.feature
+12:26:16.185 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1667928376180
+12:26:16.229 [main] INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 8 - ^lectura de valores de la db$
+12:26:17.954 [main] INFO  connectDB.DbUtils - init jdbc template: jdbc:mysQL://localhost:3306/db_karatetest
+12:26:18.437 [main] INFO  com.intuit.karate - [print] usuario-- [
+  {
+    "ID": 1,
+    "nombre": "Jason",
+    "apellido": "Guzman",
+    "usuario": "JasonG8",
+    "password": "25856541"
+  }
+]
+ 
+12:26:19.559 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/connectDB/connectDB.feature
