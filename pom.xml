@@ -25,13 +25,18 @@
             <artifactId>spring-jdbc</artifactId>
             <version>5.3.23</version>
         </dependency>
-
+        <dependency>
+            <groupId>net.masterthought</groupId>
+            <artifactId>cucumber-reporting</artifactId>
+            <version>5.7.0</version>
+        </dependency>
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
             <version>8.0.27</version>
         </dependency>
     </dependencies>
+
     <build>
         <testResources>
             <testResource>

@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Karate Timeline</title>
+    <style>
+      body, html { font-family: arial, sans-serif; font-size: 11pt; }
+      #visualization { box-sizing: border-box; width: 100%; height: 300px; }
+      .vis-item.failed { background-color: #F2928C; }
+      .page-heading { padding: 0.5em; margin-bottom: 0.5em; background-color: lightcyan; border: 1px solid gray; }
+    </style>
+    <script src="res/vis.min.js"></script>
+    <link href="res/vis.min.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="page-heading">
+      <a href="karate-summary.html">Summary</a>
+    </div>     
+    <div id="visualization"></div>
+    <script>
+var groups = [{"content":"main","id":1}];
+var items = [{"id":1,"group":1,"content":"REST\/KarateTest[2.1:27]","start":1668022712727,"end":1668022715713,"title":"REST\/KarateTest[2.1:27] 14:38:32.727-14:38:35.713 caso de pruebas name vacio"},{"id":2,"group":1,"content":"REST\/KarateTest[2.2:28]","start":1668022715728,"end":1668022716361,"title":"REST\/KarateTest[2.2:28] 14:38:35.728-14:38:36.361 caso de pruebas name nulo"},{"id":3,"group":1,"content":"REST\/KarateTest[2.3:29]","start":1668022716382,"end":1668022717478,"title":"REST\/KarateTest[2.3:29] 14:38:36.382-14:38:37.478 caso de pruebas name 3 letras"},{"id":4,"group":1,"content":"REST\/KarateTest[2.4:30]","start":1668022717494,"end":1668022718154,"title":"REST\/KarateTest[2.4:30] 14:38:37.494-14:38:38.154 caso de pruebas sin campo name"},{"id":5,"group":1,"content":"REST\/KarateTest[2.5:31]","start":1668022718174,"end":1668022718693,"title":"REST\/KarateTest[2.5:31] 14:38:38.174-14:38:38.693 caso de pruebas job vacio"},{"id":6,"group":1,"content":"REST\/KarateTest[2.6:32]","start":1668022718706,"end":1668022719188,"title":"REST\/KarateTest[2.6:32] 14:38:38.706-14:38:39.188 caso de pruebas job nulo"},{"id":7,"group":1,"content":"REST\/KarateTest[2.7:33]","start":1668022719213,"end":1668022719674,"title":"REST\/KarateTest[2.7:33] 14:38:39.213-14:38:39.674 caso de pruebas job 3 letras"},{"id":8,"group":1,"content":"REST\/KarateTest[2.8:34]","start":1668022719689,"end":1668022720512,"title":"REST\/KarateTest[2.8:34] 14:38:39.689-14:38:40.512 caso de pruebas sin campo job"}];
+</script>
+    <script>
+      var container = document.getElementById('visualization');
+      var timeline = new vis.Timeline(container);
+      timeline.setOptions({groupOrder: 'content'});
+      timeline.setGroups(new vis.DataSet(groups));
+      timeline.setItems(new vis.DataSet(items));
+    </script>
+  </body>
+</html>
